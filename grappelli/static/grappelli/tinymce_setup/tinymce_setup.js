@@ -36,7 +36,7 @@ tinyMCE.init({
     dialog_type: 'window',
     editor_deselector: 'mceNoEditor',
     keep_styles: false,
-    language: 'en',
+    language: 'ru',
     object_resizing: false,
     media_strict: true,
     
@@ -65,7 +65,7 @@ tinyMCE.init({
     // content_css : "css/example.css",
     
     // Plugins
-    plugins: 'advimage,advlink,fullscreen,paste,media,searchreplace,grappelli,grappelli_contextmenu,template',
+    plugins: 'advimage,advlink,fullscreen,paste,media,searchreplace,grappelli,grappelli_contextmenu,template,table',
     
     // Theme Advanced
     theme_advanced_toolbar_location: 'top',
@@ -75,7 +75,7 @@ tinyMCE.init({
     theme_advanced_buttons2: 'search,|,pasteword,template,media,charmap,|,code,|,table,cleanup,grappelli_documentstructure',
     theme_advanced_buttons3: '',
     theme_advanced_path: false,
-    theme_advanced_blockformats: 'p,h2,h3,h4,pre',
+    theme_advanced_blockformats: 'p,h1,h2,h3,pre',
     theme_advanced_resizing: true,
     theme_advanced_resize_horizontal: false,
     theme_advanced_resizing_use_cookie: true,
