@@ -62,7 +62,7 @@ tinyMCE.init({
     remove_script_host: true,
     
     // Content CSS
-    // content_css : "css/example.css",
+    content_css : "/media/css/main.css,/media/css/tinymce.css",
     
     // Plugins
     plugins: 'advimage,advlink,fullscreen,paste,media,searchreplace,grappelli,grappelli_contextmenu,template,table',
