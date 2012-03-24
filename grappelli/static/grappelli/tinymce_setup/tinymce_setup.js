@@ -84,10 +84,8 @@ tinyMCE.init({
     // Style formats
     // see http://wiki.moxiecode.com/index.php/TinyMCE:Configuration/style_formats
     style_formats : [
-        {title : 'Paragraph Small', block : 'p', classes: 'p_small'},
-        {title : 'Paragraph ImageCaption', block : 'p', classes: 'p_caption'},
-        {title : 'Clearfix', block : 'p', classes: 'clearfix'},
-        {title : 'Code', block : 'p', classes: 'code'}
+        {title : 'Разрыв абзацев', block : 'p', classes: 'clearfix'},
+        {title : 'Код', block : 'p', classes: 'code'}
     ],
     
     // Templates
