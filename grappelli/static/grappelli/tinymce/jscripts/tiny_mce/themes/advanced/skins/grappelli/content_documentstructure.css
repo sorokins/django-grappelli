@@ -43,8 +43,9 @@ body#tinymce div pre {
     padding-left: 0;
 }
 
-body#tinymce h2:before, 
-body#tinymce h3:before, 
+body#tinymce h1:before,
+body#tinymce h2:before,
+body#tinymce h3:before,
 body#tinymce h4:before, 
 body#tinymce p:before, 
 body#tinymce ol:before, 
