@@ -65,7 +65,7 @@ tinyMCE.init({
     content_css : "/media/css/main.css,/media/css/tinymce.css",
     
     // Plugins
-    plugins: 'advimage,advlink,fullscreen,paste,media,searchreplace,grappelli,grappelli_contextmenu,template,table',
+    plugins: 'advimage,advlink,fullscreen,paste,media,searchreplace,grappelli,contextmenu,template,table', // grappelli_contextmenu,
     
     // Theme Advanced
     theme_advanced_toolbar_location: 'top',
