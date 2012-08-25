@@ -6,3 +6,4 @@ django_grappelli.egg-info/*
 grappelli/compass/.sass-cache/
 fabfile.py
 .idea/
+.sass-cache
